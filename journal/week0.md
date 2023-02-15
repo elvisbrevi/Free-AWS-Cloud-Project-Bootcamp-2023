@@ -1,9 +1,8 @@
-﻿# Week 0 — Billing and Architecture
+# Homework for week 0
 
-Diagram on a real napkin:
+Napkin Cruddur conceptual diagram
+![enter image description here](https://github.com/elvisbrevi/Free-AWS-Cloud-Project-Bootcamp-2023/blob/week0/journal/assets/week0-napkin.png?raw=true)
 
-Diagram created with LucidChart:
+LucidChart Cruddur conceptual diagram
 
-
-Link to diagram on LucidChart: https://lucid.app/lucidchart/d2459d3a-8177-48b3-9111-1cf6b30612bd/edit?viewport_loc=-34%2C-235%2C2120%2C1178%2C0_0&invitationId=inv_af122d39-53f2-474c-a2a3-2fa907b7ef46
-
+![enter image description here](https://github.com/elvisbrevi/Free-AWS-Cloud-Project-Bootcamp-2023/blob/week0/journal/assets/week0-cruddur-conceptual-diagram.png?raw=true)
