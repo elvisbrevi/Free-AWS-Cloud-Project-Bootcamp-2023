@@ -9,3 +9,6 @@ Things i did in my homework:
 
  3. Add the GitPod button to my repository
 ![enter image description here](https://raw.githubusercontent.com/elvisbrevi/Free-AWS-Cloud-Project-Bootcamp-2023/week0/journal/assets/week0-gitpod-button.png)
+
+ 4. I install AWS CLI in my Gitpod workspace and create billing alarm
+![enter image description here](https://github.com/elvisbrevi/Free-AWS-Cloud-Project-Bootcamp-2023/blob/week0/journal/assets/week0-aws-cli-gitpod.png?raw=true)
